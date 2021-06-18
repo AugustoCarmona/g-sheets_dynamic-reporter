@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T03:48:00.945Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="iDCBv82aez8B_SroeB4_" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-18T03:52:48.861Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15" etag="z5sCv6q4grE-zCRuyt93" version="14.8.0" type="github">
   <diagram id="on07rTAMqTq5AdcJ2sTU" name="Page-1">
     <mxGraphModel dx="1615" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,7 +12,7 @@
             <mxPoint x="330" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LitLI9PwmLzpKt-Nh9I4-1" value="Planificación de la producción" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="LitLI9PwmLzpKt-Nh9I4-1" value="Planificación de la producción" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="200" y="160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LitLI9PwmLzpKt-Nh9I4-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LitLI9PwmLzpKt-Nh9I4-2" target="LitLI9PwmLzpKt-Nh9I4-4">
@@ -31,7 +31,7 @@
             <mxPoint x="620" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LitLI9PwmLzpKt-Nh9I4-2" value="Fabricación" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="LitLI9PwmLzpKt-Nh9I4-2" value="Fabricación" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="400" y="160" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LitLI9PwmLzpKt-Nh9I4-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LitLI9PwmLzpKt-Nh9I4-3">
@@ -44,7 +44,7 @@
             <mxPoint x="130" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LitLI9PwmLzpKt-Nh9I4-3" value="Control de inventarios de producción terminados" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="LitLI9PwmLzpKt-Nh9I4-3" value="Control de inventarios de producción terminados" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="200" y="340" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LitLI9PwmLzpKt-Nh9I4-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.143;entryY=0.92;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LitLI9PwmLzpKt-Nh9I4-4" target="LitLI9PwmLzpKt-Nh9I4-5">
@@ -65,16 +65,16 @@
             <mxPoint x="530" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LitLI9PwmLzpKt-Nh9I4-4" value="Control de Calidad" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="LitLI9PwmLzpKt-Nh9I4-4" value="Control de Calidad" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="400" y="340" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LitLI9PwmLzpKt-Nh9I4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LitLI9PwmLzpKt-Nh9I4-5" target="LitLI9PwmLzpKt-Nh9I4-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LitLI9PwmLzpKt-Nh9I4-5" value="Control de Producción" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="LitLI9PwmLzpKt-Nh9I4-5" value="Control de Producción" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="600" y="160" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LitLI9PwmLzpKt-Nh9I4-6" value="Determinación de Costos" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="LitLI9PwmLzpKt-Nh9I4-6" value="Determinación de Costos" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="590" y="340" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LitLI9PwmLzpKt-Nh9I4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
@@ -96,7 +96,7 @@
         <mxCell id="LitLI9PwmLzpKt-Nh9I4-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LitLI9PwmLzpKt-Nh9I4-23" target="LitLI9PwmLzpKt-Nh9I4-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LitLI9PwmLzpKt-Nh9I4-23" value="Investigación y desarrollo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LitLI9PwmLzpKt-Nh9I4-23" value="Investigación y desarrollo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="770" y="90" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LitLI9PwmLzpKt-Nh9I4-26" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;" vertex="1" parent="1">
@@ -108,35 +108,35 @@
         <mxCell id="LitLI9PwmLzpKt-Nh9I4-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.228;entryY=0.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LitLI9PwmLzpKt-Nh9I4-29" target="LitLI9PwmLzpKt-Nh9I4-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LitLI9PwmLzpKt-Nh9I4-29" value="Sistema de administración personal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LitLI9PwmLzpKt-Nh9I4-29" value="Sistema de administración personal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="50" y="30" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LitLI9PwmLzpKt-Nh9I4-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.013;entryY=0.386;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LitLI9PwmLzpKt-Nh9I4-30" target="LitLI9PwmLzpKt-Nh9I4-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LitLI9PwmLzpKt-Nh9I4-30" value="Sistema de Abastecimiento" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LitLI9PwmLzpKt-Nh9I4-30" value="Sistema de Abastecimiento" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-10" y="120" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LitLI9PwmLzpKt-Nh9I4-33" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-10" y="400" width="33.75" height="122.25" as="geometry" />
         </mxCell>
-        <mxCell id="LitLI9PwmLzpKt-Nh9I4-34" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;" vertex="1" parent="1">
+        <mxCell id="LitLI9PwmLzpKt-Nh9I4-34" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=#d5e8d4;routingCenterX=-0.5;rotation=90;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="110" y="462" width="33.75" height="122.25" as="geometry" />
         </mxCell>
-        <mxCell id="LitLI9PwmLzpKt-Nh9I4-35" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;" vertex="1" parent="1">
+        <mxCell id="LitLI9PwmLzpKt-Nh9I4-35" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=#f8cecc;routingCenterX=-0.5;rotation=90;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="340" y="450" width="33.75" height="122.25" as="geometry" />
         </mxCell>
-        <mxCell id="LitLI9PwmLzpKt-Nh9I4-36" value="Desechos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LitLI9PwmLzpKt-Nh9I4-36" value="Desechos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="510" y="544.25" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LitLI9PwmLzpKt-Nh9I4-39" value="Ordenes de producción" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="LitLI9PwmLzpKt-Nh9I4-39" value="Ordenes de producción" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="210" y="83.86999999999999" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LitLI9PwmLzpKt-Nh9I4-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LitLI9PwmLzpKt-Nh9I4-27" target="LitLI9PwmLzpKt-Nh9I4-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LitLI9PwmLzpKt-Nh9I4-41" value="Ordenes de producción" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="398.12" y="66.13" width="140" height="20" as="geometry" />
+        <mxCell id="LitLI9PwmLzpKt-Nh9I4-41" value="Ordenes de producción" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="405.01" y="63.86999999999999" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LitLI9PwmLzpKt-Nh9I4-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -145,9 +145,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LitLI9PwmLzpKt-Nh9I4-43" value="&lt;br&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="456.25" width="23.75" height="152.25" as="geometry" />
+          <mxGeometry x="463.13" y="-2.25" width="23.75" height="152.25" as="geometry" />
         </mxCell>
-        <mxCell id="LitLI9PwmLzpKt-Nh9I4-44" value="Partes de Producción" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="LitLI9PwmLzpKt-Nh9I4-44" value="Partes de Producción" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="590" y="38.87" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LitLI9PwmLzpKt-Nh9I4-45" value="Partes de producción" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
@@ -156,7 +156,7 @@
         <mxCell id="LitLI9PwmLzpKt-Nh9I4-46" value="Stock" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="101.88" y="513.12" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LitLI9PwmLzpKt-Nh9I4-47" value="Partes de producción" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="LitLI9PwmLzpKt-Nh9I4-47" value="Partes de producción" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="-58.13" y="451.12" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LitLI9PwmLzpKt-Nh9I4-48" value="Orden de producción" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
