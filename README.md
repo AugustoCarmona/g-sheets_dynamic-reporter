@@ -31,10 +31,3 @@ function obtenerRangoDinamico(sheet, seccion, finSeccion) {
   }
 }
 ```
-
-## Cómo Usar
-1. Abre tu hoja de cálculo de Google Sheets.
-2. Haz clic en "Extensiones" y selecciona "Apps Script".
-3. Copia y pega el código en el editor y guarda el proyecto.
-4. Recarga la hoja de cálculo.
-5. Verás un nuevo menú llamado "Herramientas Matteucci" (agregá el nombre que corresponda para tu proyecto). Hacé clic en él y selecciona "Generar Reporte" para crear el reporte en una hoja nueva llamada "Reporte".
